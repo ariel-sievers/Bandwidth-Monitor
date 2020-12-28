@@ -1,0 +1,14 @@
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\Bandwidth Monitor.exe.config
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\Bandwidth Monitor.exe
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\Bandwidth Monitor.pdb
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.csprojAssemblyReference.cache
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.exe
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.pdb
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\MonitorDB.mdf
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\MonitorDB_log.ldf
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\BouncyCastle.Crypto.dll
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\MailKit.dll
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\MimeKit.dll
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\MailKit.xml
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\MimeKit.xml
+F:\Users\Ariel Sievers\Desktop\Side Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.csproj.CopyComplete
