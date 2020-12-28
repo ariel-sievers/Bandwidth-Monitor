@@ -16,10 +16,10 @@ the statistics should be shown. A few important functions include:
 Get the current available networks and store into a local array.
 
 ### `GetBytesSent(NetworkInterface netInt)`
--Return the bytes sent by a particular network.
+- Return the bytes sent by a particular network.
 
 ### `GetBytesReceived(NetworkInterface netInt)`
--Return the bytes received by a particular network.
+- Return the bytes received by a particular network.
 
 ### `ShowUsage()`
 - Get the available networks by calling `GetNetworkInterfaces()`. For each network found,
